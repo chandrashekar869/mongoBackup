@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"timesheetDB.userCollection"},{"v":2,"unique":true,"key":{"emailId":1.0},"name":"emailId_1","ns":"timesheetDB.userCollection"}],"uuid":"c15540911952481681310be6570c5cfe"}
